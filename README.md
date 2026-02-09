@@ -4,7 +4,7 @@ This GitHub Action copies a folder from the current repository to a location in 
 # Example Workflow
     name: Push File
 
-    on: push
+    on: push 
 
     jobs:
       copy-file:
