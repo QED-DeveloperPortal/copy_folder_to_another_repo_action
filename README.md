@@ -1,6 +1,6 @@
 
 # copy_folder_to_another_repo_action
-This GitHub Action copies a folder from the current repository to a location in another repository
+This GitHub Action copies a folder from the current repository to a location in another repository 
 
 # Example Workflow
     name: Push File
