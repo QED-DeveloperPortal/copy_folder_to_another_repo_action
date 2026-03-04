@@ -39,4 +39,4 @@ This GitHub Action copies a folder from the current repository to a location in 
 # Behavior Notes
 The action will remove the destionation folder before recreating it to place any copied files in it.
 
-Updated on 04/03/2026 4:36 PM
+Updated on 04/03/2026 4:43 PM
